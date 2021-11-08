@@ -1,7 +1,7 @@
 # A$$etH0und
 
 **Abstract** – With my focus on offensive security I have developed
-the tool A$$etH0und. Now this tool’s best part is that with a little tweak it can be used
+this little tool A$$etH0und. Now this tool’s best part is that with a little tweak it can be used
 easily in blue teaming (asset monitoring) but the current version of this tool is made by
 keeping red teaming ops in mind. A$$etH0und is an asset tracking tool for any corporate
 network that has assets which speaks IPv4 (which is pretty much any corp network). It can
