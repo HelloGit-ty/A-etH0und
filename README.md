@@ -12,10 +12,10 @@ names as well as the OS version running on them. A$$etH0und will work correctly 
 there are no MITM packet manipulating tools in the network. Since it is a command line
 tool, this tool can be used remotely over SSH as well.
 
-**Technical details** – A$$etH0und is written completely using python3 and XML. The tool has
-been written to avoid any form of stack/heap based buffer overflows or the presence of
-BOILs (Buffer overflow inducing loops). There are no form of Binary vulnerabilities as per my
-testing. (Further testing can be done if required).
+**Technical details** – A$$etH0und is written completely using python3 and XML.
+
+
+
 
 **Packages used** -> Scapy, Pathlib, Sys, BeautifulSoup(bs4), sockets and time.
 
